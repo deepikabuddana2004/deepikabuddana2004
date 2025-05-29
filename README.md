@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @deepikabuddana2004
-- 👀 I’m interested in data science 
-- 🌱 I’m currently double majoring in Computer Science and Data Science at Rutgers University-New Brunswick  
-- 😄 Pronouns: she/her
+👩‍💻 Incoming M.S. Data Science @ NJIT (Fall 2025) | CS & Data Science B.S. @ Rutgers
+🔎 Interested in AI, machine learning, and data analytics
+⚙️ Skilled in Python, SQL, R/R Studio, pandas, NumPy, Tableau, Looker, Google Cloud Platform (GCP)
+💼 Actively seeking full-time roles in data science, analytics, or AI
 
 <!---
 deepikabuddana2004/deepikabuddana2004 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
